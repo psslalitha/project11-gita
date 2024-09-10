@@ -17,8 +17,6 @@
   </dependencies>
   <build>
     <finalName>my-web-app</finalName>
-  </build>
-  <build>
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
@@ -26,6 +24,6 @@
             <version>3.3.2</version> <!-- Update to the latest stable version -->
         </plugin>
     </plugins>
-</build>
-
+  </build>
 </project>
+
